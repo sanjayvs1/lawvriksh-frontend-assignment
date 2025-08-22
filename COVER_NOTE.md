@@ -1,5 +1,7 @@
 # Cover Note
 
+https://lawvriksh-frontend-assignment.vercel.app/
+
 This repository contains both phases of the LawVriksh frontend assignment.
 
 - Phase 1 (in `phase1/`): UX brief, annotated screens, motion plan, and laws applied.
